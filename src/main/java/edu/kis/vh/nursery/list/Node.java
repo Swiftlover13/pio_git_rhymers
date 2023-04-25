@@ -14,7 +14,4 @@ public class Node {
         return prev;
     }
 
-    public void setPrev(Node prev) {
-        this.prev = prev;
-    }
 }
